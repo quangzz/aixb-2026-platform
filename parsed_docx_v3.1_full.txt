@@ -1,0 +1,305 @@
+TRANG CHỦ
+NỘI DUNG CHI TIẾT WEBSITE AIxB (WEBSITE CONTENT BLUEPRINT)
+Tài liệu phê duyệt (v3.1) nội dung chi tiết 
+SƠ ĐỒ KIẾN TRÚC KIM TỰ THÁP (WEBSITE ARCHITECTURE MAP)
+Cấu trúc website AIxB được thiết kế theo mô hình kim tự tháp 3 tầng nhằm tối ưu hóa hành trình trải nghiệm của khách hàng (User Journey) và nâng cao hiệu quả SEO cấu trúc (Silo Architecture).
+CHI TIẾT NỘI DUNG TỪNG TRANG (PAGE-BY-PAGE OUTLINES)
+1. TRANG CHỦ (HOME PAGE): "THÔNG ĐIỆP VÀ TRUNG TÂM ĐIỀU HƯỚNG"
+Mục tiêu: Định hình nhận thức ngay lập tức (trong 5 giây đầu tiên) về Học viện AIxB là ai, làm gì, tạo ra giá trị khác biệt gì; đồng thời đóng vai trò làm trung tâm điều hướng hành vi của khách truy cập.
+Khung nội dung chi tiết:
+Section 1: Hero Section (Đầu trang)
+Tiêu đề lớn (Headline): 
+Kiến tạo lợi thế cạnh tranh, đồng hành chuyển giao giá trị.
+Tiêu đề phụ (Sub-headline):
+AIxB - Đào tạo huấn luyện và cung cấp giải pháp Chuyển đổi AI Tinh gọn, thúc đẩy hiệu suất kinh doanh và phát triển năng lực cạnh tranh vượt trội.
+Nút hành động (CTA): 
+Button 1: [Trò chuyện với chúng tôi] | Button 2: [Xem chương trình chi tiết].
+Hình ảnh/Video minh họa (background): 
+Video: chuyên gia tư vấn, huấn luyện đang hỗ trợ học viên mang phong cách chuyên nghiệp, tin cậy. (link:https://drive.google.com/file/d/1hgqs2WP4R8rQK4CcYfk6DgxpIlc1VQmB/view?usp=sharing)
+Banner trắng, logo đối tác hiệp hội, cộng đồng và trường đại học 
+(text): 
+Chương trình được xây dựng và thực hiện bởi các chuyên gia thực chiến và giáo sư từ các trường đại học danh tiếng.
+Section 2: 
+(text) góc trên: ĐÀO TẠO - TƯ VẤN - HUẤN LUYỆN ĐỒNG HÀNH
+Tiêu đề lớn (Headline): 
+Lựa chọn đa dạng cho mọi cá nhân và doanh nghiệp
+Text phụ: 
+Bạn không cần thêm một khóa học về AI, Bạn xứng đáng có một đối tác đồng hành thấu hiểu mục tiêu và coi trọng hành trình chuyển đổi của bạn. AIxB cung cấp các giải pháp và kỹ năng cần thiết để thúc đẩy năng lực cho các cá nhân và tổ chức ở mọi trình độ, giúp đạt được mục tiêu lợi thế vượt trội trong kỷ nguyên AI. 
+- Box 1: Chương trình huấn luyện dành cho quản lý:
+(ảnh persona 1- nữ trẻ) Link:
+- Box 2: Chương trình huấn luyện dành cho Leader 
+(ảnh persona 1- nam trung) link:
+- Box 3: Giải pháp tư vấn chiến lược / 
+(ảnh corprate - team success)
+Section 3: KỸ NĂNG VÀ GIẢI PHÁP
+Tiêu đề lớn (Headline): 
+Chương trình huấn luyện và giải pháp chuyển đổi AI 
+Section 4: Video giới thiệu chương trình huấn luyện 
+Khung video zoom to dần, tràn kín section khi kéo xuống
+Link video:
+Section 5: Ý kiến chuyên gia (Social Proof)
+Text nội dung đậm trong “...”: (1 câu nhận xét của chuyên gia uy tín về chương trình)
+Text phụ: Tên đầy đủ và chức danh
+Hình ảnh chuyên gia hoặc học viên
+Button: [Xem nội dung chi tiết]
+Section 6: CTA - Đăng ký
+Tiêu đề lớn (Headline): 
+Tìm hiểu cách AIxB có thể giúp bạn trong hành trình chuyển đổi.
+Text đậm: 
+Bạn không chắc nên bắt đầu từ đâu? Hãy điền vào biểu mẫu bên dưới để được kết nối với thành viên chuyên trách của chúng tôi, người có thể giúp bạn tìm ra giải pháp phù hợp.
+Điền form: (Khung form trắng trên nền đen)
+Text phụ:
+Có, tôi muốn nhận email từ AIxB với các thông tin cập nhật độc quyền về tin tức sản phẩm, lời mời tham dự sự kiện & hội thảo, và thông báo về tài liệu mới. Tôi có thể hủy đăng ký bất cứ lúc nào.
+Icon 
+Bằng cách gửi, tôi xác nhận rằng tôi đã đọc và đồng ý với Tuyên bố về Quyền riêng tư.
+Button: [Gửi xác nhận]
+Section 7: Tài nguyên liên quan và thông tin hoạt động của AIxB
+(Box trắng trên nền đen)
+Baner ngang Logo trắng: (Vietcombank, MB Bank, Viettel, Rox, Vinhomes... ) 
+Link logo:
+Text: 
+Các đơn vị đã đồng hành cùng các chuyên gia huấn luyện của AIxB
+Section 8: (CTA)
+Tiêu đề lớn (Headline): 
+Chúng ta hãy tiếp tục cuộc trò chuyện này
+Text đậm: 
+Bạn sẵn sàng bắt đầu chưa? Hãy lên lịch ngay hôm nay để nói chuyện với một chuyên gia thành viên của chúng tôi.
+Button: [Trò chuyện với chúng tôi]
+Section 9: Chân trang
+TRANG ABOUT
+2. TRANG GIỚI THIỆU (ABOUT PAGE): "CÁ TÍNH THƯƠNG HIỆU & HỒ SƠ CHUYÊN GIA"
+Mục tiêu: Xây dựng niềm tin tuyệt đối bằng cách thể hiện sâu sắc mục tiêu (purpose) phát triển bản sắc thương hiệu Việt của Học viện, tầm nhìn, lý lịch khoa học/thực chiến vững vàng của đội ngũ chuyên gia và hội đồng học thuật.
+Đối tượng: Những nhà quản lý, lãnh đạo doanh nghiệp có khát vọng chuyển đổi, đang tìm kiếm một đối tác đồng hành tin cậy, có tri thức, kinh nghiệm chiến lược, am hiểu và có năng lực vận hành công nghệ.
+Section 1: GIỚI THIỆU 
+Chúng ta đang đứng trước cuộc chuyển dịch lớn nhất lịch sử kinh doanh kể từ khi Internet ra đời. Trí tuệ nhân tạo (AI) không còn là khoa học viễn tưởng. Nó đang viết lại luật chơi của mọi ngành nghề, từ Bán lẻ, Tài chính đến Sản xuất và Dịch vụ. 
+Thấu hiểu các doanh nghiệp Việt Nam đang thiếu một khung tư duy quản trị kinh doanh chuẩn quốc tế nhưng được "bản địa hóa" và "nhúng" trong AI. Họ cần những giải pháp hữu hiệu, kết hợp giữa lý thuyết chiến lược toàn cầu với thực tế triển khai trên dữ liệu và bối cảnh đặc thù riêng của doanh nghiệp mình. 
+Học viện AIxB ra đời với mục đích đóng vai trò như một "đòn bẩy chuyển đổi" trực tiếp, trang bị cho các nhà lãnh đạo tầm nhìn chiến lược số, khả năng kết nối giữa kinh nghiệm thực tế, tri thức quản trị quốc tế với sức mạnh của công nghệ hiện đại. Thúc đẩy tiến trình chuyển đổi AI từ nhận thức đến hành động, từ thử nghiệm sang triển khai thực tế trên quy mô lớn. Giúp nhân sự các cấp trong doanh nghiệp không chỉ biết "làm thế nào" mà còn hiểu sâu sắc "tại sao" để triển khai AI một cách hiệu quả và an toàn. 
+AIxB không những là chất xúc tác, nâng cao năng lực quản lý cho đội ngũ nhân sự, cung cấp quy trình, kỹ năng tinh luyện dữ liệu, đưa AI vào vận hành hiệu suất cao mà còn thực sự giải quyết các bài toán chiến lược cạnh tranh, kích hoạt các cơ hội tạo ra giá trị và mô hình kinh doanh mới. 
+Ảnh giao lưu kết nối CSMO: Link
+Section 2: Câu chuyện thương hiệu AIxB (The AIxB Origin Story)
+Tiêu đề: 
+Kết nối Niềm tin và Khát vọng.
+Nội dung: 
+Từ sự gặp gỡ của các chuyên gia thực chiến và giảng viên học thuật trong các hoạt động kết nối phát triển cộng đồng kinh doanh & tiếp thị (Sales & Marketing Vietnam - CSMO), niềm tin được hội tụ và hình thành khát vọng biến AI thành công cụ kiến tạo tài sản số - nâng tầm quản trị trường tồn cho doanh nghiệp Việt.
+Những con người uyên thâm, kinh nghiệm và tâm huyết, bị thôi thúc khi nhận thấy các doanh nghiệp Việt đang đứng giữa hai dòng chảy, một bên là các hãng tư vấn quản lý và nền tảng quốc tế, đắt đỏ, mà thiếu am hiểu văn hóa Việt Nam, một bên là các công ty, tập đoàn cung cấp giải pháp công nghệ, nhưng thiếu đồng bộ với kỹ năng quản trị và tư duy chiến lược đặc thù. 
+AIxB ra đời để khỏa lấp khoảng trống nhu cầu này, với mong muốn đóng góp cho sự phát triển thịnh vượng và bền vững của các doanh nghiệp Việt.
+Ảnh: các thành viên hội đồng học thuật đang trao đổi:
+Tuyên bố định vị:
+Học viện đào tạo huấn luyện và tư vấn chiến lược AIxB, 
+"Chúng tôi giúp các doanh nghiệp Nâng cao năng lực cạnh tranh, chuyển đổi mô hình quản trị, biến Trí tuệ Nhân tạo (AI) thành công cụ thúc đẩy tăng trưởng bền vững, tạo ra và chiếm hữu những giá trị mang bản sắc trường tồn.” 
+Tagline:
+“Kiến tạo lợi thế cạnh tranh, Đồng hành chuyển giao giá trị”
+Section 2: Tầm nhìn - Sứ mệnh - Giá trị cốt lõi
+Tầm Nhìn (Vision)
+Trở thành Học viện Đào tạo Huấn luyện AI và Tư vấn Chiến lược hàng đầu Việt Nam, Kiến tạo Năng lực Cạnh tranh và Chuyển đổi Công nghệ (AI) tự chủ cho hàng nghìn doanh nghiệp Việt.
+Sứ Mệnh (Mission)
+Nâng cao năng lực cạnh tranh, tối ưu mô hình quản trị, và biến công nghệ (AI) thành đòn bẩy tăng trưởng bền vững, kiến tạo tài sản số, gia tăng giá trị và phát triển bản sắc trường tồn cho doanh nghiệp Việt.
+Giá Trị Cốt Lõi (Core Values)
+Section 3: Sự khác biệt (USP) của Học viện AIxB
+Tôn chỉ thương hiệu AIxB: 
+"Huấn luyện đồng hành - Tư vấn chuyên nghiệp - Đào tạo Chuyển giao.” 
+Học viện AIxB không chỉ đào tạo, huấn luyện, chúng tôi thẩm định và tinh chỉnh chiến lược, xác định vị thế cạnh tranh, thúc đẩy hiệu suất, và nâng tầm năng lực quản trị (con người) cho doanh nghiệp."
+Lợi ích:
+Bảo vệ và Số hóa di sản: Đồng bộ chiến lược kinh doanh với năng lực chuyển đổi. Biến kinh nghiệm thương trường, bí quyết kinh doanh của doanh nghiệp thành tài sản số trường tồn, loại bỏ sự mơ hồ hay nỗi lo mất kiểm soát khi chuyển đổi công nghệ.
+Trao quyền và Khẳng định vị thế: Cung cấp công cụ sắc bén (AI) để hiện thực hóa các ý tưởng đột phá, tạo ra kỳ tích tăng trưởng mới dựa trên nền tảng quản trị vững chắc.
+Niềm tự hào Tự chủ: Khơi dậy lòng tự tôn doanh nghiệp Việt — làm chủ năng lực quản trị, kiến tạo hệ điều hành số và bản sắc văn hóa riêng. 
+Ảnh: một buổi đào tạo huấn luyện: link:
+Section 4: Mô hình, Phương pháp, Nền tảng
+Tại AIxB, mọi giải pháp đào tạo, huấn luyện và tư vấn đều được vận hành dựa trên hai nguyên lý nền tảng độc quyền đã được chứng minh hiệu quả:
+Section 5: Hội đồng học thuật & Chuyên gia (The Experts' Portfolio)
+GS.TS. Vũ Anh Dũng (Cố vấn Học thuật Toàn cầu & Đổi mới Giáo dục):
+Giáo sư đầu ngành, tốt nghiệp Tiến sĩ tại Đại học Cambridge, MBA Webster. Nguyên Viện trưởng lâm thời Viện Khoa học & Giáo dục Khai phóng VinUni, Viện trưởng sáng lập ĐH Việt Nhật. Ông có chuyên môn sâu rộng về quản lý, kiểm định chất lượng (AUN-QA), tiên phong đưa phương pháp CDIO vào Việt Nam và có nhiều năm kinh nghiệm tư vấn chiến lược cấp cao.
+	Ảnh chân dung trên nền ID của AIxB
+	Link profile 
+Chuyên gia Bùi Quý Phong (Chiến lược Cạnh tranh & Định vị Thương hiệu Trải nghiệm):
+Hơn 25 năm kinh nghiệm trong lĩnh vực Quản trị Chiến lược Thương hiệu và Tiếp thị Trải nghiệm. Ông là người sáng lập DeepB, Phó Chủ tịch CSMO Việt Nam, tác giả của khung "5Ps Experience Architecture". Ông giúp chuyển hóa tư duy từ việc chỉ bán sản phẩm sang việc xây dựng các "Tài sản Vô hình" và Thương hiệu Văn hóa. Tham gia xây dựng khung chuyển đổi AI tinh gọn 5B™ 
+	Ảnh chân dung trên nền ID của AIxB
+	Link profile 
+Chuyên gia Đinh Trần Tuấn Linh (Ứng dụng AI & Đổi mới Sáng tạo):
+Gần 2 thập kỷ đồng hành cùng làn sóng công nghệ, CTO của UNIKON, nhà sáng lập URAH Network, TUVA và Sakédemy. Ông là người tiên phong tại Việt Nam ứng dụng AI Agent vào marketing, truyền thông và đào tạo doanh nghiệp, đóng vai trò là "Business Translator" kết nối xuất sắc giữa kỹ thuật AI chuyên sâu và chiến lược vận hành thực tiễn.
+Ảnh chân dung trên nền ID của AIxB
+	Link profile 
+Chuyên gia …++
+….
+Section 6: Tài nguyên liên quan và thông tin hoạt động của AIxB
+(Box trắng trên nền đen)
+Section 7: Chân trang
+[ TẦNG 1: TRANG CHỦ (HOME PAGE) ]
+(Định vị thương hiệu - Điểm điều hướng trung tâm) | [ TẦNG 1: TRANG CHỦ (HOME PAGE) ]
+(Định vị thương hiệu - Điểm điều hướng trung tâm) | [ TẦNG 1: TRANG CHỦ (HOME PAGE) ]
+(Định vị thương hiệu - Điểm điều hướng trung tâm) | [ TẦNG 1: TRANG CHỦ (HOME PAGE) ]
+(Định vị thương hiệu - Điểm điều hướng trung tâm)
+[ TẦNG 2: 
+GIỚI THIỆU ] 
+(About & Experts) | [ TẦNG 2: 
+DỊCH VỤ ]
+ (Services Hub) | [ TẦNG 2: 
+SẢN PHẨM / LMS ]
+ (Product Catalog) | [ TẦNG 2: 
+TÀI NGUYÊN ]
+(Blog & FAQs Hub)
+[ TẦNG 3: 
+TRANG CON ]
+- Câu chuyện thương hiệu 
+- Hồ sơ chuyên gia  
+- Chứng nhận/Đối tác | [ TẦNG 3: 
+TRANG CON ]
+- Kiểm định (Audit) 
+    - Tư vấn chiến lược
+  - Huấn luyện đồng hành | [ TẦNG 3: 
+CHI TIẾT KHÓA ] 
+ - Masterclass  
+ - Khóa học ngắn hạn  
+ - Sách trắng/Tài liệu | [ TẦNG 3: 
+BÀI VIẾT ]
+ - Case Studies
+ - Phân tích pháp lý
+ - FAQs chi tiết
+[ TẦNG ĐÍCH: LANDING PAGES / SALES PAGES ]
+(Biểu mẫu đăng ký - Kêu gọi hành động) | [ TẦNG ĐÍCH: LANDING PAGES / SALES PAGES ]
+(Biểu mẫu đăng ký - Kêu gọi hành động) | [ TẦNG ĐÍCH: LANDING PAGES / SALES PAGES ]
+(Biểu mẫu đăng ký - Kêu gọi hành động) | [ TẦNG ĐÍCH: LANDING PAGES / SALES PAGES ]
+(Biểu mẫu đăng ký - Kêu gọi hành động)
+Tối ưu hiệu suất 
+Hãy phát triển bản thân và nâng cấp những kỹ năng mà doanh nghiệp của bạn đang cần. Khai thác sức mạnh công nghệ để phóng đại năng lực sáng tạo và tối ưu hiệu suất công việc. Chương trình huấn luyện dành cho các cá nhân cấp quản lý
+
+Button [Khám phá AIxB dành cho nhà quản lý]
+Tư duy chiến lược
+Lãnh đạo không cần biết chi tiết kỹ thuật ở mức thực thi, nhưng cần hiểu các khía cạnh kinh doanh — từ nhận diện cơ hội đến đo lường thành công để xác định Cơ hội AI Phù hợp, lựa chọn giải pháp và đưa ra quyết định đầu tư đúng đắn. Chương trình huấn luyện giúp cho các nhà lãnh đạo khả năng ứng phó với sự thay đổi một cách linh hoạt, với nhận thức rõ ràng và đầy quyết tâm. 
+Button [Khám phá AIxB dành cho lãnh đạo]
+Chuyển đổi mô hình
+AIxB tư vấn chiến lược và đồng hành cùng doanh nghiệp, sử dụng phương pháp Lean AI - 5B™  độc quyền: Một cách tiếp cận có hệ thống để triển khai AI bằng các bước ngắn, đồng thời khắc phục các khoảng trống chiến lược và năng lực quản trị, giúp doanh nghiệp Tái cấu trúc (Reset) - Tái định vị (Re-position) - và Tái khởi động (Re-ignite), biến AI từ một mối đe dọa thành vũ khí cạnh tranh sắc bén nhất.
+
+Button [Khám phá AIxB Tư vấn đồng hành]
+- Box 1: | - Box 2:
+AI MARKETING PLAYBOOK (Dành cho nhà quản lý)
+
+- Icon simple 1: Từ  "AI-First" đến Bản đồ thực thi 5Cs & SWOT
+- Icon simple 2: Quản trị toàn diện Marketing Mix (4Ps) bằng AI
+- Icon simple 3: Xây dựng tài sản độc quyền "Thư viện Prompt Nội bộ" Quản trị rủi ro AI | TẠO GIÁ TRỊ & CHUYỂN ĐỔI MÔ HÌNH KINH DOANH DỰA TRÊN DỮ LIỆU VÀ AI (Dành cho lãnh đạo)
+- Icon simple 4: Tư duy chuyển đổi & làm chủ dữ liệu không phụ thuộc
+- Icon simple 5: Tối ưu hóa các chiến dịch & biến dữ liệu thành tài sản sinh lời
+- Icon simple 6: Xây dựng văn hóa dựa trên dữ liệu /an toàn và bảo mật
+🔄Thời lượng: 5 buổi + / 3 ngày
+✅ CAM KẾT ĐẦU RA: Sở hữu bộ quy trình chuẩn (SOP) để tăng hiệu suất vận hành
+
+Button: [Xem nội dung huấn luyện 1] | 🔄Thời lượng:  5 buổi + / 3 ngày
+✅ CAM KẾT ĐẦU RA: Một tấm bản đồ chiến lược rõ ràng, sẵn sàng cho chuyển đổi
+Button: [Xem nội dung huấn luyện 2]
+Tên:
+Họ:
+Work email:
+Mobile:
+Công ty:
+Thành phố: (lựa chọn)
+Nội dung quan tâm: (lựa chọn)
+Cho chúng tôi biết thêm mục tiêu mong muốn của bạn:
+KINH NGHIỆM CHUYÊN GIA 
+
+Tên tiêu đề
+Nội dung mở đầu (2dòng)
+
+Xem chi tiết | WEBINA
+
+Tên tiêu đề
+Nội dung mở đầu (2dòng)
+
+Xem chi tiết | CẬP NHẬT SỰ KIỆN
+
+Tên tiêu đề
+Nội dung mở đầu (2dòng)
+
+Xem chi tiết
+Những thông tin chính thức về AIxB
+Đăng ký 
+Địa chỉ…
+Điều khoản pháp lý | (các trang theo menu chính của website) | Box CTA
+Logo AIxB: 
+(link:https://drive.google.com/file/d/1q84kixllUfHg-8zCwj6C6ctsSPmA1eaZ/view?usp=sharing 
+
+Tagline: 
+Tạo ra giá trị và lợi thế cạnh tranh trong kỷ nguyên AI
+Added value and competitive advantage on AI age
+
+Icon các kênh social của AIxB: [F] | [in] | [▶] | [Zalo] | Logo AIxB: 
+(link:https://drive.google.com/file/d/1q84kixllUfHg-8zCwj6C6ctsSPmA1eaZ/view?usp=sharing 
+
+Tagline: 
+Tạo ra giá trị và lợi thế cạnh tranh trong kỷ nguyên AI
+Added value and competitive advantage on AI age
+
+Icon các kênh social của AIxB: [F] | [in] | [▶] | [Zalo] | Logo AIxB: 
+(link:https://drive.google.com/file/d/1q84kixllUfHg-8zCwj6C6ctsSPmA1eaZ/view?usp=sharing 
+
+Tagline: 
+Tạo ra giá trị và lợi thế cạnh tranh trong kỷ nguyên AI
+Added value and competitive advantage on AI age
+
+Icon các kênh social của AIxB: [F] | [in] | [▶] | [Zalo]
+Hình biểu tượng (Icon) minh họa
+Hòa hợp bền vững & Giá trị : 
+Đồng nhất chiến lược kinh doanh và chuyển đổi AI, kết nối kinh nghiệm thực tế, tri thức quản trị và năng lực công nghệ, thông qua ngôn ngữ chung của kiến tạo giá trị và tối ưu hiệu suất. | Hình biểu tượng (Icon) minh họa
+Tự chủ & Thực chiến (Autonomy & Execution): 
+Chuyển giao tri thức, quy trình để doanh nghiệp tự vận hành, không chịu sự lệ thuộc vào đơn vị cung cấp công nghệ.
+Hình biểu tượng (Icon) minh họa
+Hiệu suất & ROI Thực chất: 
+Mọi giải pháp công nghệ đều phải quy đổi ra hiệu quả tài chính, tối ưu vận hành và đo lường được. | Hình biểu tượng (Icon) minh họa
+Sovereign AI (An toàn & Chủ quyền): 
+Quy trình chuẩn, thượng tôn pháp luật (PDPL & Luật AI 2026), bảo vệ dữ liệu nội bộ như huyết mạch của doanh nghiệp.
+Mô hình "Consulting-led Training"  (Tư vấn dẫn dắt Huấn luyện) 
+Không chỉ chuyển giao tri thức, Chuyên gia của AIxB sẽ trực tiếp vào hiện trường để:
+- Thẩm định năng lực cạnh tranh và kiểm định thực trạng dữ liệu của doanh nghiệp.
+- Tư vấn tinh chỉnh chiến lược kinh doanh và đồng bộ với kiến trúc chuyển đổi AI.
+- Đồng hành huấn luyện thực chiến tại chỗ để nhân sự của doanh nghiệp có thể tự vận hành độc lập. | Phương pháp chuyển đổi AI tinh gọn Lean AI 5B™
+Lộ trình 5 bước tôi ưu chuyển đổi được thiết kế riêng cho đặc thù doanh nghiệp Việt Nam.
+1. Belief (Đồng thuận niềm tin)
+2. Baseline (Kiểm định & đồng bộ chiến lược)
+3. Benchmark (Chuẩn hóa năng lực, dữ liệu)
+4. Buildout (Thực thi thí điểm)
+5. Boost (Tối ưu hóa và chuyển giao tự chủ)
+Dù các bạn tham gia Đào tạo, Huấn luyện hay Tư vấn AIxB đều sẽ cung cấp một tài khoản tương tác trực tuyến LMS riêng, cập nhật thông tin như một người bạn tri thức đồng hành.
+Giới thiệu về LMS / Hình ảnh tương tác | Dù các bạn tham gia Đào tạo, Huấn luyện hay Tư vấn AIxB đều sẽ cung cấp một tài khoản tương tác trực tuyến LMS riêng, cập nhật thông tin như một người bạn tri thức đồng hành.
+Giới thiệu về LMS / Hình ảnh tương tác
+Button: [ Liên hệ đặt lịch Tư vấn ] | Button: [Khám phá AI tinh gọn 5B™ ]
+KINH NGHIỆM CHUYÊN GIA 
+
+Tên tiêu đề
+Nội dung mở đầu (2dòng)
+
+Xem chi tiết | WEBINA
+
+Tên tiêu đề
+Nội dung mở đầu (2dòng)
+
+Xem chi tiết | CẬP NHẬT SỰ KIỆN
+
+Tên tiêu đề
+Nội dung mở đầu (2dòng)
+
+Xem chi tiết
+Những thông tin chính thức về AIxB
+Đăng ký 
+Địa chỉ…
+Điều khoản pháp lý | (các trang theo menu chính của website) | Box CTA
+Logo AIxB: 
+(link:https://drive.google.com/file/d/1q84kixllUfHg-8zCwj6C6ctsSPmA1eaZ/view?usp=sharing 
+
+Tagline: 
+Tạo ra giá trị và lợi thế cạnh tranh trong kỷ nguyên AI
+Added value and competitive advantage on AI age
+
+Icon các kênh social của AIxB: [F] | [in] | [▶] | [Zalo] | Logo AIxB: 
+(link:https://drive.google.com/file/d/1q84kixllUfHg-8zCwj6C6ctsSPmA1eaZ/view?usp=sharing 
+
+Tagline: 
+Tạo ra giá trị và lợi thế cạnh tranh trong kỷ nguyên AI
+Added value and competitive advantage on AI age
+
+Icon các kênh social của AIxB: [F] | [in] | [▶] | [Zalo] | Logo AIxB: 
+(link:https://drive.google.com/file/d/1q84kixllUfHg-8zCwj6C6ctsSPmA1eaZ/view?usp=sharing 
+
+Tagline: 
+Tạo ra giá trị và lợi thế cạnh tranh trong kỷ nguyên AI
+Added value and competitive advantage on AI age
+
+Icon các kênh social của AIxB: [F] | [in] | [▶] | [Zalo]

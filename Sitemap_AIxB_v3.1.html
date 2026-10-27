@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Sitemap Website AIxB v3.1</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  @page {
+    size: A4 portrait;
+    margin: 10mm 12mm 10mm 12mm;
+  }
+  * {
+    box-sizing: border-box;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+  body {
+    font-family: 'Be Vietnam Pro', sans-serif;
+    color: #1e293b;
+    background-color: #ffffff;
+    line-height: 1.45;
+    font-size: 11.5px;
+    margin: 0;
+    padding: 0;
+  }
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 3px solid #0052cc;
+    padding-bottom: 10px;
+    margin-bottom: 15px;
+  }
+  .brand-title {
+    font-size: 20px;
+    font-weight: 800;
+    color: #0f172a;
+    letter-spacing: -0.5px;
+  }
+  .brand-subtitle {
+    font-size: 12px;
+    color: #0052cc;
+    font-weight: 600;
+    margin-top: 2px;
+  }
+  .doc-meta {
+    text-align: right;
+    font-size: 10.5px;
+    color: #64748b;
+  }
+  .doc-badge {
+    background: #e0e7ff;
+    color: #3730a3;
+    font-weight: 700;
+    padding: 3px 8px;
+    border-radius: 6px;
+    display: inline-block;
+    margin-bottom: 3px;
+  }
+
+  h2 {
+    font-size: 14px;
+    color: #0f172a;
+    border-left: 4px solid #0052cc;
+    padding-left: 8px;
+    margin-top: 18px;
+    margin-bottom: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+
+  .pyramid-container {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 18px;
+    background: #f8fafc;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #e2e8f0;
+  }
+
+  .tier-box {
+    border-radius: 6px;
+    padding: 8px 12px;
+    color: #ffffff;
+  }
+
+  .tier-1 {
+    background: linear-gradient(135deg, #1e3a8a, #2563eb);
+    text-align: center;
+  }
+
+  .tier-2-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+  }
+
+  .tier-2-item {
+    background: #ffffff;
+    border: 1px solid #cbd5e1;
+    border-top: 3px solid #2563eb;
+    border-radius: 6px;
+    padding: 8px;
+    color: #1e293b;
+  }
+  .tier-2-item h4 {
+    margin: 0 0 4px 0;
+    font-size: 11px;
+    color: #1e40af;
+    font-weight: 700;
+  }
+  .tier-2-item p {
+    margin: 0;
+    font-size: 10px;
+    color: #64748b;
+  }
+
+  .tier-3-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 8px;
+  }
+
+  .tier-3-item {
+    background: #f1f5f9;
+    border-radius: 6px;
+    padding: 6px 8px;
+    font-size: 9.5px;
+    color: #334155;
+  }
+  .tier-3-item ul {
+    margin: 0;
+    padding-left: 12px;
+  }
+
+  .tier-target {
+    background: linear-gradient(135deg, #065f46, #10b981);
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px;
+    color: white;
+    font-weight: 600;
+    font-size: 11px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+    font-size: 10.5px;
+  }
+
+  th, td {
+    border: 1px solid #cbd5e1;
+    padding: 6px 8px;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  th {
+    background-color: #0f172a;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 10px;
+    text-transform: uppercase;
+  }
+
+  tr:nth-child(even) {
+    background-color: #f8fafc;
+  }
+
+  .url-code {
+    font-family: monospace;
+    background: #eff6ff;
+    color: #1d4ed8;
+    padding: 1px 4px;
+    border-radius: 4px;
+    font-size: 9.5px;
+    font-weight: 600;
+  }
+
+  .tag {
+    display: inline-block;
+    padding: 2px 5px;
+    border-radius: 4px;
+    font-size: 8.5px;
+    font-weight: 700;
+    text-align: center;
+  }
+  .tag-l1 { background: #dbeafe; color: #1e40af; }
+  .tag-l2 { background: #e0e7ff; color: #3730a3; }
+  .tag-l3 { background: #f3e8ff; color: #6b21a8; }
+  .tag-target { background: #d1fae5; color: #065f46; }
+  .tag-legal { background: #fee2e2; color: #991b1b; }
+
+  .menu-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+    margin-bottom: 15px;
+  }
+
+  .menu-card {
+    border: 1px solid #cbd5e1;
+    border-radius: 6px;
+    padding: 10px;
+    background: #ffffff;
+  }
+
+  .menu-card h4 {
+    margin: 0 0 6px 0;
+    color: #0052cc;
+    font-size: 11.5px;
+    border-bottom: 1px solid #e2e8f0;
+    padding-bottom: 3px;
+  }
+
+  .footer-meta {
+    margin-top: 20px;
+    border-top: 1px solid #cbd5e1;
+    padding-top: 8px;
+    font-size: 9.5px;
+    color: #64748b;
+    text-align: center;
+  }
+
+  .page-break {
+    page-break-before: always;
+  }
+</style>
+</head>
+<body>
+
+  <!-- HEADER -->
+  <div class="header">
+    <div>
+      <div class="brand-title">HỌC VIỆN AIxB (AIxB ACADEMY)</div>
+      <div class="brand-subtitle">Kiến tạo lợi thế cạnh tranh, đồng hành chuyển giao giá trị</div>
+    </div>
+    <div class="doc-meta">
+      <div class="doc-badge">SITEMAP BLUEPRINT v3.1</div>
+      <div>Phê duyệt nội dung: v3.1</div>
+      <div>Kiến trúc: Kim Tự Tháp 3 Tầng</div>
+    </div>
+  </div>
+
+  <!-- SECTION 1: ARCHITECTURE OVERVIEW -->
+  <h2>1. MÔ HÌNH KIẾN TRÚC KIM TỰ THÁP (WEBSITE ARCHITECTURE MAP)</h2>
+  <div class="pyramid-container">
+    <div class="tier-box tier-1">
+      <div style="font-size: 12px; font-weight: 800;">TẦNG 1: TRANG CHỦ (HOME PAGE - /)</div>
+      <div style="font-size: 10px; opacity: 0.9;">Định vị thương hiệu - Điểm điều hướng trung tâm & Phân luồng trải nghiệm khách hàng</div>
+    </div>
+
+    <div class="tier-2-grid">
+      <div class="tier-2-item">
+        <h4>TẦNG 2: GIỚI THIỆU</h4>
+        <p>About & Experts Hub (/gioi-thieu)</p>
+      </div>
+      <div class="tier-2-item">
+        <h4>TẦNG 2: DỊCH VỤ</h4>
+        <p>Services Hub (/dich-vu)</p>
+      </div>
+      <div class="tier-2-item">
+        <h4>TẦNG 2: SẢN PHẨM / LMS</h4>
+        <p>Courses & Catalog (/san-pham)</p>
+      </div>
+      <div class="tier-2-item">
+        <h4>TẦNG 2: TÀI NGUYÊN</h4>
+        <p>Blog & Resources (/tai-nguyen)</p>
+      </div>
+    </div>
+
+    <div class="tier-3-grid">
+      <div class="tier-3-item">
+        <strong>TẦNG 3: TRANG CON</strong>
+        <ul>
+          <li>Câu chuyện thương hiệu</li>
+          <li>Tầm nhìn - Sứ mệnh - USP</li>
+          <li>Hồ sơ chuyên gia chi tiết</li>
+          <li>Đối tác & Chứng nhận</li>
+        </ul>
+      </div>
+      <div class="tier-3-item">
+        <strong>TẦNG 3: TRANG CON</strong>
+        <ul>
+          <li>Kiểm định AI Audit</li>
+          <li>Tư vấn chiến lược 5B™</li>
+          <li>Huấn luyện đồng hành</li>
+        </ul>
+      </div>
+      <div class="tier-3-item">
+        <strong>TẦNG 3: CHI TIẾT KHÓA</strong>
+        <ul>
+          <li>Masterclass Series</li>
+          <li>Khóa học ngắn hạn</li>
+          <li>Sách trắng / Prompt SOP</li>
+          <li>Nền tảng LMS App</li>
+        </ul>
+      </div>
+      <div class="tier-3-item">
+        <strong>TẦNG 3: BÀI VIẾT</strong>
+        <ul>
+          <li>Case Studies thực tế</li>
+          <li>Phân tích pháp lý AI 2026</li>
+          <li>Góc nhìn chuyên gia</li>
+          <li>FAQs chi tiết C-Suite</li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="tier-target">
+      TẦNG ĐÍCH: LANDING PAGES / SALES PAGES (/landing/..., /dang-ky-tu-van, /lien-he)<br>
+      <span style="font-weight: 400; font-size: 9.5px;">Biểu mẫu đăng ký tư vấn - Thu thập thông tin Lead - Kêu gọi hành động & Chuyển đổi Khách hàng</span>
+    </div>
+  </div>
+
+  <!-- SECTION 2: DETAILED SITEMAP TABLE -->
+  <h2>2. SITEMAP CHI TIẾT & BẢN ĐỒ ĐƯỜNG DẪN (URL SCHEMA)</h2>
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 10%;">Phân Tầng</th>
+        <th style="width: 25%;">Tên Trang (Page Title)</th>
+        <th style="width: 25%;">Đường Dẫn (URL Slug)</th>
+        <th style="width: 40%;">Mục Tiêu & Nội Dung Cốt Lõi</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="tag tag-l1">TẦNG 1</span></td>
+        <td><strong>Trang Chủ</strong></td>
+        <td><span class="url-code">/</span></td>
+        <td>Hero section video, Định vị AIxB, 3 Box giải pháp (Quản lý, Leader, Doanh nghiệp), Khóa học tiêu biểu, Ý kiến chuyên gia, Lead Form, Tin tức & Logo Đối tác (Vietcombank, MB Bank, Viettel...).</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l2">TẦNG 2</span></td>
+        <td><strong>Giới Thiệu (About Hub)</strong></td>
+        <td><span class="url-code">/gioi-thieu</span></td>
+        <td>Tổng quan Học viện AIxB, Bối cảnh Chuyển đổi AI cho doanh nghiệp Việt, Định vị thương hiệu.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Câu Chuyện Thương Hiệu</td>
+        <td><span class="url-code">/gioi-thieu/cau-chuyen-thuong-hieu</span></td>
+        <td>Xuất phát điểm từ CSMO, Kết nối Niềm tin & Khát vọng, Tuyên bố định vị, Tagline thương hiệu.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Tầm Nhìn - Sứ Mệnh - Giá Trị</td>
+        <td><span class="url-code">/gioi-thieu/tam-nhin-su-menh-gia-tri</span></td>
+        <td>4 Giá trị cốt lõi: Hòa hợp bền vững, Tự chủ & Thực chiến, Hiệu suất & ROI, Sovereign AI.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Sự Khác Biệt (USP)</td>
+        <td><span class="url-code">/gioi-thieu/su-khac-biet-usp</span></td>
+        <td>Tôn chỉ "Huấn luyện đồng hành - Tư vấn chuyên nghiệp - Đào tạo chuyển giao".</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Mô Hình & Phương Pháp</td>
+        <td><span class="url-code">/gioi-thieu/mo-hinh-va-phuong-phap</span></td>
+        <td>Mô hình Consulting-led Training & Lộ trình 5 bước Lean AI 5B™ (Belief, Baseline, Benchmark, Buildout, Boost).</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Hội Đồng Chuyên Gia</td>
+        <td><span class="url-code">/gioi-thieu/chuyen-gia</span></td>
+        <td>Danh sách GS.TS Vũ Anh Dũng, Chuyên gia Bùi Quý Phong, Chuyên gia Đinh Trần Tuấn Linh...</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Hồ Sơ Chuyên Gia Chi Tiết</td>
+        <td><span class="url-code">/gioi-thieu/chuyen-gia/[slug]</span></td>
+        <td>Trang CV / Profile năng lực chi tiết của từng cố vấn/chuyên gia.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Đối Tác & Chứng Nhận</td>
+        <td><span class="url-code">/gioi-thieu/doi-tac-va-chung-nhan</span></td>
+        <td>Danh sách đối tác doanh nghiệp, hiệp hội nghề nghiệp & trường đại học hợp tác.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l2">TẦNG 2</span></td>
+        <td><strong>Dịch Vụ (Services Hub)</strong></td>
+        <td><span class="url-code">/dich-vu</span></td>
+        <td>Tổng quan 3 trụ cột dịch vụ tư vấn & đồng hành của AIxB.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Kiểm Định AI (Audit)</td>
+        <td><span class="url-code">/dich-vu/kiem-dinh-ai-audit</span></td>
+        <td>Đánh giá thực trạng dữ liệu, quy trình và mức độ sẵn sàng AI của doanh nghiệp.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Tư Vấn Chiến Lược AI</td>
+        <td><span class="url-code">/dich-vu/tu-van-chien-luoc</span></td>
+        <td>Tư vấn chuyển đổi mô hình kinh doanh AI-First theo khung Lean AI 5B™.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Huấn Luyện Đồng Hành</td>
+        <td><span class="url-code">/dich-vu/huan-luyen-dong-hanh</span></td>
+        <td>Chương trình đào tạo & huấn luyện thực chiến tại chỗ (In-house Training).</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l2">TẦNG 2</span></td>
+        <td><strong>Sản Phẩm & Đào Tạo (Catalog)</strong></td>
+        <td><span class="url-code">/san-pham</span></td>
+        <td>Danh mục các giải pháp đào tạo, khóa học & sản phẩm tri thức AIxB.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Khóa Học Masterclass</td>
+        <td><span class="url-code">/san-pham/masterclass</span></td>
+        <td>Mini-MBA Series: AI Marketing Playbook, Data & AI Business Transformation...</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Khóa Học Ngắn Hạn</td>
+        <td><span class="url-code">/san-pham/khoa-hoc-ngan-han</span></td>
+        <td>Các workshop chuyên đề kỹ năng AI ứng dụng cho từng bộ phận chuyên môn.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Tài Liệu & Sách Trắng</td>
+        <td><span class="url-code">/san-pham/tai-lieu-bach-khoa</span></td>
+        <td>Thư viện Prompt nội bộ, SOPs quy trình chuẩn & Whitepapers ngành.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Nền Tảng LMS Học Viên</td>
+        <td><span class="url-code">/san-pham/lms-app</span></td>
+        <td>Giới thiệu & Cổng truy cập hệ thống LMS tương tác trực tuyến cho học viên.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="page-break"></div>
+
+  <!-- TABLE CONTINUED -->
+  <h2>2. SITEMAP CHI TIẾT (TIẾP THEO)</h2>
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 10%;">Phân Tầng</th>
+        <th style="width: 25%;">Tên Trang (Page Title)</th>
+        <th style="width: 25%;">Đường Dẫn (URL Slug)</th>
+        <th style="width: 40%;">Mục Tiêu & Nội Dung Cốt Lõi</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="tag tag-l2">TẦNG 2</span></td>
+        <td><strong>Tài Nguyên (Resources Hub)</strong></td>
+        <td><span class="url-code">/tai-nguyen</span></td>
+        <td>Trung tâm chia sẻ tri thức, bài viết chuyên môn & sự kiện của AIxB.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Case Studies Thực Tế</td>
+        <td><span class="url-code">/tai-nguyen/case-studies</span></td>
+        <td>Tổng hợp các dự án chuyển đổi AI thành công và bài toán ROI thực chứng.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Phân Tích Pháp Lý AI 2026</td>
+        <td><span class="url-code">/tai-nguyen/phap-ly-ai</span></td>
+        <td>Chuyên mục Sovereign AI: Phân tích Luật AI 2026, PDPL & Bảo mật dữ liệu nội bộ.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Góc Nhìn Chuyên Gia (Blog)</td>
+        <td><span class="url-code">/tai-nguyen/goc-nhin-chuyen-gia</span></td>
+        <td>Bài viết định hướng tư vấn, quản trị và bài học thực chiến từ các cố vấn.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Sự Kiện & Webinar</td>
+        <td><span class="url-code">/tai-nguyen/webinar-su-kien</span></td>
+        <td>Lịch tổ chức workshop trực tuyến, hội thảo chuyên đề & video phát lại.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-l3">TẦNG 3</span></td>
+        <td>Hệ Thống FAQs Chi Tiết</td>
+        <td><span class="url-code">/tai-nguyen/faqs</span></td>
+        <td>Giải đáp thắc mắc C-Suite về mô hình AI-Native, Sovereign AI, chi phí & lộ trình.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-target">TẦNG ĐÍCH</span></td>
+        <td>Trang Liên Hệ Chính Thức</td>
+        <td><span class="url-code">/lien-he</span></td>
+        <td>Địa chỉ học viện, thông tin liên lạc, bản đồ vị trí & kênh hỗ trợ Zalo/Email.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-target">TẦNG ĐÍCH</span></td>
+        <td>Form Đăng Ký Tư Vấn</td>
+        <td><span class="url-code">/dang-ky-tu-van</span></td>
+        <td>Biểu mẫu đặt lịch tư vấn trực tiếp 1-1 với Chuyên gia chuyên trách AIxB.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-target">TẦNG ĐÍCH</span></td>
+        <td>Landing Page: AI Quick Scan™</td>
+        <td><span class="url-code">/landing/ai-quick-scan</span></td>
+        <td>Landing page bán gói dịch vụ kiểm định mức độ sẵn sàng AI của doanh nghiệp.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-target">TẦNG ĐÍCH</span></td>
+        <td>Landing Page: Lead by Agentic AI</td>
+        <td><span class="url-code">/landing/lead-by-agentic-ai</span></td>
+        <td>Landing page chi tiết chiêu sinh khóa học Masterclass Lãnh đạo AI.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-legal">PHÁP LÝ</span></td>
+        <td>Chính Sách Bảo Mật</td>
+        <td><span class="url-code">/chinh-sach-bao-mat</span></td>
+        <td>Cam kết bảo mật dữ liệu cá nhân & dữ liệu doanh nghiệp tuân thủ PDPL.</td>
+      </tr>
+      <tr>
+        <td><span class="tag tag-legal">PHÁP LÝ</span></td>
+        <td>Điều Khoản Sử Dụng</td>
+        <td><span class="url-code">/dieu-khoan-su-dung</span></td>
+        <td>Quy định về bản quyền nội dung, tài nguyên học tập & trách nhiệm người dùng.</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <!-- SECTION 3: NAVIGATION MENU STRUCTURE -->
+  <h2>3. CẤU TRÚC ĐIỀU HƯỚNG MENU (NAVIGATION LAYOUT)</h2>
+  <div class="menu-grid">
+    <div class="menu-card">
+      <h4>📌 Header Menu (Thanh Điều Hướng Trên)</h4>
+      <ul style="padding-left: 15px; margin: 0;">
+        <li><strong>Trang Chủ</strong></li>
+        <li><strong>Giới Thiệu ▾</strong>
+          <ul>
+            <li>Câu chuyện thương hiệu</li>
+            <li>Tầm nhìn & Giá trị cốt lõi</li>
+            <li>Hội đồng chuyên gia</li>
+            <li>Phương pháp Lean AI 5B™</li>
+          </ul>
+        </li>
+        <li><strong>Dịch Vụ ▾</strong>
+          <ul>
+            <li>Kiểm định AI (Audit)</li>
+            <li>Tư vấn chiến lược 5B™</li>
+            <li>Huấn luyện đồng hành</li>
+          </ul>
+        </li>
+        <li><strong>Sản Phẩm & Đào Tạo ▾</strong>
+          <ul>
+            <li>Masterclass Lãnh đạo / Quản lý</li>
+            <li>Khóa học ngắn hạn</li>
+            <li>Tài liệu & Sách trắng</li>
+            <li>Cổng LMS Học viên</li>
+          </ul>
+        </li>
+        <li><strong>Tài Nguyên ▾</strong>
+          <ul>
+            <li>Case Studies & Pháp lý AI</li>
+            <li>Góc nhìn chuyên gia & Webinar</li>
+            <li>Hệ thống FAQs</li>
+          </ul>
+        </li>
+        <li><strong>CTA Button:</strong> [Trò chuyện với chuyên gia]</li>
+      </ul>
+    </div>
+
+    <div class="menu-card">
+      <h4>📌 Footer Navigation (Cấu Trúc Chân Trang 5 Cột)</h4>
+      <ul style="padding-left: 15px; margin: 0;">
+        <li><strong>Cột 1: Branding AIxB</strong>
+          <br><span style="color:#64748b;">Logo AIxB, Tagline, Mạng xã hội (FB, LinkedIn, YT, Zalo).</span>
+        </li>
+        <li><strong>Cột 2: Về AIxB</strong>
+          <br><span style="color:#64748b;">Câu chuyện thương hiệu, Đội ngũ chuyên gia, Lộ trình 5B™, Đối tác.</span>
+        </li>
+        <li><strong>Cột 3: Chương Trình & Dịch Vụ</strong>
+          <br><span style="color:#64748b;">AI Marketing Playbook, Data Transformation, Services Audit, LMS.</span>
+        </li>
+        <li><strong>Cột 4: Tri Thức & Hỗ Trợ</strong>
+          <br><span style="color:#64748b;">Case Studies, Pháp lý AI 2026, Webinar, FAQs & Điều khoản.</span>
+        </li>
+        <li><strong>Cột 5: Đăng Ký Nhận Tin (Newsletter)</strong>
+          <br><span style="color:#64748b;">Biểu mẫu đăng ký email cập nhật thông tin & tài liệu mới.</span>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <!-- FOOTER META -->
+  <div class="footer-meta">
+    Tài liệu Bản quyền thuộc về Học viện Tư vấn, Đào tạo Quản trị và Chuyển đổi AI (AIxB) &copy; 2026. Tất cả các quyền được bảo lưu.
+  </div>
+
+</body>
+</html>

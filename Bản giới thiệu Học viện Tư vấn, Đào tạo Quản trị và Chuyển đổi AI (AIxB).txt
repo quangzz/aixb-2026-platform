@@ -1,0 +1,95 @@
+﻿________________
+
+
+BẢN GIỚI THIỆU HỌC VIỆN QUẢN TRỊ THẾ HỆ MỚI (AIxB)
+Tài liệu này được thiết kế theo cấu trúc chuẩn để bạn có thể sử dụng ngay làm khung sản xuất nội dung cho Website, Profile, và tài liệu Saleskit.
+________________
+
+
+HỒ SƠ NĂNG LỰC 
+Học viện Tư vấn, Đào tạo Quản trị và Chuyển đổi AI (AIxB). 
+1. DỊCH VỤ: TỔNG QUAN, ĐỊNH VỊ VÀ CẤU TRÚC
+Giới thiệu Học viện AIxB:
+AIxB là Học viện tư vấn và đào tạo Quản trị Thế hệ mới duy nhất tại Việt Nam mang lại sự cộng sinh giữa công nghệ tiên tiến và năng lực lãnh đạo, kỹ năng quản trị - (Efficiency of AI) Hiệu suất tác nhân tự chủ AI và (Mettle of Human) Khí phách Chỉ huy. 
+Chúng tôi hướng đến phân khúc doanh nghiệp Mid-size Việt Nam (100 - 1.000 nhân sự), cung cấp dịch vụ chuyển đổi AI với Định vị cốt lõi: Sovereign Intelligence (Trí tuệ tự chủ / Bản sắc thương hiệu). Chúng tôi hướng đến việc giúp doanh nghiệp không bị phụ thuộc vào các nền tảng bên ngoài, mà tự làm chủ hệ thống quản trị, xây dựng chiến lược dữ liệu và năng lực AI độc lập.
+AIxB vượt ra khỏi việc "dạy dùng công cụ" thông thường để giải quyết bài toán quản trị lõi bằng triết lý "The Human Premium" (Giá trị nhân tính vượt trội) và hướng tới "Sovereign Creative Intelligence" (Trí tuệ tự chủ tạo Bản sắc). AI là lớp hạ tầng vô hình, thứ tỏa sáng phải là con người và thương hiệu của doanh nghiệp.
+Thông điệp thương hiệu AIxB:
+* "From AI Adoption to Sovereign Intelligence" 
+* Từ ứng dụng AI đến trí tuệ tự chủ.
+Lời hứa thương hiệu AIxB: 
+Chúng tôi không chỉ cung cấp công cụ hay đào tạo sử dụng AI, mà tập trung chuyển giao một hành trình tiến hóa cho tổ chức doanh nghiệp. Thúc đẩy quá trình Chuyển đổi từ "AI Adoption" (doanh nghiệp mới bắt đầu thử nghiệm, dùng công cụ rời rạc, thiếu quản trị) để đi đến đích là "Sovereign Intelligence" (trạng thái trưởng thành, hệ thống trí tuệ tự vận hành, tự chủ chiến lược và quản trị AI an toàn)
+Tổng quan dịch vụ: 
+AIxB vận hành như một trung tâm "Hybrid Intelligence", cung cấp 3 trụ cột dịch vụ:
+* Tư vấn (Agentic Transformation Consulting: Tư vấn chuyển đổi và chuyển giao, thiết lập các Tác nhân AI (AI Agents) trực tiếp vào quy trình vận hành của tổ chức để doanh nghiệp đạt được "Trí tuệ tự chủ".
+* Đào tạo (Hyper-Personalized Learning): Đào tạo tư duy "AI-First Management" và nâng cao năng lực quản trị thay vì chỉ là dạy kỹ năng công cụ, với lộ trình được cá nhân hóa cho C-Suite và quản lý.
+* Nghiên cứu thẩm định (Audit-as-a-Service): Cung cấp các báo cáo đánh giá tình trạng kinh doanh, sức mạnh thương hiệu và nghiên cứu thị trường, dự báo rủi ro quản trị thông qua hệ sinh thái AI tự động.
+* Đồng hành Quản trị AI doanh nghiệp (Enterprise AI Governance): Tư vấn thiết lập và giám sát thường xuyên khung quản trị AI tự chủ, dữ liệu chính xác, an toàn, bảo mật.
+2. ĐỘI NGŨ CHUYÊN GIA DẪN DẮT
+Đội ngũ của AIxB là sự kết hợp giữa các nhà giáo dục, chuyên gia công nghệ và chiến lược gia thương hiệu hàng đầu:
+* GS.TS. Vũ Anh Dũng: Nhà giáo dục, nhà đổi mới và khởi nghiệp. Ông là thành viên sáng lập chủ chốt của các tổ chức giáo dục tinh hoa như Đại học Việt Nhật, ĐH Kinh tế (ĐHQGHN). Ông có chuyên môn sâu rộng về quản lý, kiểm định chất lượng (AUN-QA), tiên phong đưa phương pháp CDIO vào Việt Nam và có nhiều năm kinh nghiệm tư vấn chiến lược cấp cao.
+* Chuyên gia Bùi Quý Phong: Hơn 25 năm kinh nghiệm trong lĩnh vực Quản trị Chiến lược Thương hiệu và Tiếp thị Trải nghiệm. Ông là người sáng lập DeepB, Phó Chủ tịch CSMO Việt Nam, tác giả của khung "5Ps Experience Architecture". Ông giúp chuyển hóa tư duy từ việc chỉ bán sản phẩm sang việc xây dựng các "Tài sản Vô hình" và Thương hiệu Văn hóa.
+* Chuyên gia Đinh Trần Tuấn Linh: Gần 2 thập kỷ đồng hành cùng làn sóng công nghệ, CTO của UNIKON, nhà sáng lập URAH Network, TUVA và Sakédemy. Ông là người tiên phong tại Việt Nam ứng dụng AI Agent vào marketing, truyền thông và đào tạo doanh nghiệp, đóng vai trò là "Business Translator" kết nối xuất sắc giữa kỹ thuật AI chuyên sâu và chiến lược vận hành thực tiễn.
+* và…
+3. DANH SÁCH KHÁCH HÀNG TIÊU BIỂU
+Các chuyên gia của AIxB đã trực tiếp dẫn dắt, tư vấn và đào tạo cho danh sách các tổ chức, tập đoàn hàng đầu trong và ngoài nước, bao gồm:
+* Ngành Ngân hàng & Tài chính: Techcombank, MB Bank, Vietcombank, Sacombank.[a]
+* Tập đoàn Công nghệ & Viễn thông: Viettel Post, Viettel AI, FPT,[b] CMC.
+* Ngành Bất động sản & Dịch vụ: Vinhomes, ROX Group, Taseco.
+* FMCG, Bán lẻ & Sản xuất: Toyota Việt Nam, Unilever (OMO, Clear, Comfort), Samsung, Electrolux, Nestlé (La Vie), Pepsico (Lay's), HP Việt Nam, Hyundai.
+* Tổ chức Phi chính phủ & Xã hội: UNESCO, UNDP, Oxfam, CARE.
+4. CHI TIẾT DỊCH VỤ VÀ PHƯƠNG PHÁP LUẬN (FRAMEWORK)
+AIxB cung cấp bộ giải pháp xoay quanh hệ thống phương pháp luận 5B Framework™, đi từ khám phá, kiểm định  đến mở rộng quy mô:
+* Consulting Framework (Khung Tư vấn 5B chuẩn quốc tế):
+
+   * B1 - Breakthrough (Khám phá): Quét tổng thể mức độ sẵn sàng AI (Readiness Audit) qua 5 chiều: Con người, Dữ liệu, Quy trình, Hệ thống, Kiểm soát.
+   * B2 - Blaze (Chẩn đoán): Audit chuyên sâu nội bộ, xác định "mắt xích yếu nhất" và thiết lập bài toán ưu tiên.
+   * B3 - Blueprint (Thiết kế): Kiến trúc lộ trình chuyển đổi Agentic AI trong 12-24 tháng.
+   * B4 - Buildout (Triển khai): Thực thi các dự án Pilot, đào tạo nhân sự thành các "Kiến trúc sư Tác nhân".
+   * B5 - Broadcast (Vận hành): Nhân rộng quy mô, thiết lập quản trị (Governance) và đo lường ROI.
+   * Executive Academy (Học viện Lãnh đạo): Cung cấp chương trình "EMBA AI-Native" và "Agentic Marketing Architect". Thay vì học chung chung, AIxB sử dụng nền tảng cá nhân hóa tuyệt đối với hệ thống "AI Tutor" (1 học viên : 1 AI). Trọng tâm là "AI-First Management" đào tạo tư duy quản trị, tái cấu trúc vận hành.
+
+   * Enterprise AI Transformation Model (Mô hình chuyển đổi AI cho doanh nghiệp): Áp dụng các mô hình linh hoạt tùy theo quy mô: AI Sandbox (thí nghiệm an toàn), AI Taskforce/Squad (đội phản ứng nhanh), Outsourced CoE (Trung tâm AI thuê ngoài trọn gói - BespokeAI Solution), và FAIO (Fractional AI Officer - Giám đốc AI thuê ngoài).
+
+   * AI Governance Positioning (Định vị Quản trị & Tuân thủ AI): Dịch vụ "Sovereign Compliance" giúp doanh nghiệp thiết lập quy tắc đạo đức AI, quản lý rủi ro dữ liệu, đảm bảo tuân thủ "Luật Trí tuệ nhân tạo 2025" thông qua việc thiết lập AI Governance Board và áp dụng khung tiêu chuẩn quốc tế như NIST AI RMF, ISO 42001.
+
+   * Thought Leadership Platform (Nền tảng Tư tưởng dẫn dắt): AIxB liên tục xuất bản các nghiên cứu thị trường tự động trong 24h, Báo cáo AI Benchmark ngành hàng năm, kết hợp chuỗi Podcast “AIXplan” "CUNGAI" (The Age of Intelligence) và cộng đồng "AI Leaders Circle".
+5. DANH MỤC SẢN PHẨM BÀN GIAO (DELIVERABLES)
+Khi khách hàng sử dụng dịch vụ của AIxB, các sản phẩm bàn giao thực chứng bao gồm:
+      * Báo cáo AIX Maturity Scorecard: Chấm điểm mức độ trưởng thành AI của tổ chức trên 5 chiều.
+      * Bản đồ Quy trình & Ma trận Ưu tiên (Process Map & Use Case Priority Matrix): Nhận diện điểm nghẽn và cơ hội đưa Agentic AI vào vận hành với dự phóng ROI chi tiết.
+      * Lộ trình Chuyển đổi AI (AI Transformation Roadmap): Thiết kế bản thiết kế (Blueprint) 12-24 tháng kèm Business Case.
+      * Hệ thống AI Pilot Hoạt động (Working AI System): Các Tác nhân AI (Agents) được cài đặt trực tiếp vào hệ thống doanh nghiệp, kèm theo báo cáo đối chiếu Before/After (trước và sau khi áp dụng).
+      * Khung Quản trị AI (AI Governance Charter & Policy): Bộ quy tắc đạo đức, tiêu chuẩn an toàn dữ liệu và sổ tay quản trị thay đổi (CM Playbook).
+6. DANH SÁCH DỰ ÁN VÀ THÀNH TỰU NỔI BẬT
+Các chuyên gia tại AIxB đã đứng sau những sự kiện/chiến dịch đổi mới sáng tạo thực chiến:
+      * Tối ưu hóa quản trị Techcombank: Ứng dụng AI/Machine Learning xuất sắc giành Giải Bạc MMA Smarties khu vực Châu Á Thái Bình Dương hạng mục "Đổi mới sáng tạo ngành Marketing", và Giải Vàng hạng mục Sáng tạo Tiếp thị Đa kênh cho chiến dịch "Tiến tới phiên bản vượt trội".
+      * Dự án Clear "Toc Tien AI Influencer": Giải Đồng MMA Smarties hạng mục Machine Learning & AI.
+      * Dự án Pepsico Lay's: Chiến dịch "Lay's Smile is the New Year Fortune" (Giải Bạc MMA Smarties).
+      * Viettel Post & Viettel AI: Xây dựng chiến lược chăm sóc khách hàng tự động, đào tạo Tối ưu hóa quản trị vận hành dựa trên công nghệ và Spec-Driven Development.
+      * Vinhomes & Tập đoàn ROX: Phát triển "Khóa học Khai phá sức mạnh Agentic AI", xây dựng Trợ lý cá nhân AI nhằm tối ưu hóa hoạt động doanh nghiệp.
+7. CÁC TRƯỜNG HỢP ĐIỂN HÌNH (CASE STUDIES & TÁC ĐỘNG)
+AIxB cam kết tính thực chứng (Real-ROI) thay vì những lý thuyết suông. Việc ứng dụng các chiến lược Agentic AI của đội ngũ chuyên gia mang lại những thay đổi cốt lõi:
+      * Đột phá Hiệu suất Vận hành: 
+Áp dụng hệ thống Tác nhân tự trị (Agentic Workflows) giúp các doanh nghiệp giảm từ 60-70% thời gian thực hiện các tác vụ lặp lại và tiết kiệm khổng lồ chi phí nhân sự. So với GenAI truyền thống, các Agent này tự ra quyết định quy trình, đem lại mức ROI trung bình lên tới 171%.
+      * Tăng cường Bản sắc Thương hiệu: 
+Bằng việc đào tạo các tác nhân theo tông giọng (Brand Voice) bản địa của doanh nghiệp Việt Nam, sự thấu cảm quy mô lớn đã nâng cao chất lượng trải nghiệm của khách hàng một cách rõ rệt.
+      * Quản trị rủi ro "Shadow AI": 
+Giúp các doanh nghiệp lớn loại bỏ tình trạng nhân viên tự phát dùng các công cụ AI không kiểm soát (gây lộ dữ liệu bí mật). Thông qua tư vấn "Sovereign Compliance", doanh nghiệp đã xây dựng được một hàng rào bảo vệ vững chắc để vừa tuân thủ pháp luật, vừa duy trì đổi mới sáng tạo.
+8. GỢI Ý LỜI CHỨNG THỰC CỦA KHÁCH HÀNG (TESTIMONIALS)
+(Các lời chứng thực mẫu dưới đây được thiết kế sát với Insight của tệp C-Level mục tiêu)
+"Trước đây, chúng tôi đã đầu tư không ít vào các tool AI rời rạc nhưng đều rơi vào 'bẫy thí điểm', không ra được ROI trên bảng cân đối kế toán. Bằng phương pháp 5B Framework của AIxB, chúng tôi đã tái cấu trúc toàn bộ mô hình và biến AI thành hệ thống vận hành lõi. Đây đúng nghĩa là tiêu chuẩn tư vấn của McKinsey, nhưng cực kỳ thấu hiểu doanh nghiệp Việt Nam." — [Gợi ý: CEO một Tập đoàn Sản xuất & Phân phối Mid-size]
+"Triết lý 'Khí phách con người, Hiệu suất của máy' của AIxB đã làm thay đổi hoàn toàn tư duy của đội ngũ quản lý. Giờ đây, nhân sự của chúng tôi không còn sợ AI thay thế, mà họ đã trở thành những 'Kiến trúc sư tác nhân' tự tin chỉ huy AI để tạo ra khác biệt." — [Gợi ý: Giám đốc Nhân sự (CHRO), Chuỗi Bán lẻ F&B]
+"Áp lực về Luật AI và bảo mật dữ liệu từng là rào cản lớn nhất của chúng tôi. Dịch vụ Fractional AI Officer (FAIO) và tư vấn Sovereign Intelligence của AIxB đã cung cấp một khung quản trị hoàn hảo để chúng tôi vận hành tự động hóa mà không đánh mất 'linh hồn' của thương hiệu." — [Gợi ý: CTO, Ngân hàng/Tổ chức Tài chính]
+9. THÔNG TIN LIÊN HỆ
+      * Văn phòng: Tầng 3, Số 1 Đinh Lễ, phường Hoàn Kiếm, Tp. Hà Nội.
+      * Hotline tư vấn: 0868 1133 06 .
+      * Email: [Email chính thức của AIxB - có thể bổ sung] |.
+      * Trang web: aixb.vn | Tham khảo thêm: deepb.vn.
+________________
+
+
+Lưu ý: Bạn có thể đưa trực tiếp nội dung này vào các bản trình bày (Deck), chèn hình ảnh chuyên gia, và gắn link Website tương ứng để hoàn thiện bộ tài liệu Saleskit/Profile chính thức của Học viện.
+
+
+[a]UNK k đào tạo cho techcombank mà chỉ có làm phần campaign thôi ạ, các bên như MB, Vietcombank, Sacombank... là các dự án đào tạo hợp tác giữa talentpool với sakedemy và đại diện là talentpool ký với các bên nên e nghĩ k nên đưa vào đây ạ, tránh khách hàng bị confuse nếu mình có tiếp cận ạ
+[b]FPT bên e k đào tạo mà là a Linh làm chương trình học và 1 khoá đào tạo MBA với FSB ạ. CMC cũng chỉ talk thôi ạ, k có đào tạo ạ
